@@ -1,0 +1,12 @@
+[build]
+  command = "npm run build:web"
+  publish = "dist"
+
+[dev]
+  command = "npm run dev"
+  port = 8888
+  
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
