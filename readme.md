@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://pbs.twimg.com/media/Gk76k7bX0AA1c-S?format=jpg&name=4096x4096" alt="Project Banner" width="600">
+</p>
+
+
 # Live Demo: https://idyllic-beijinho-731d71.netlify.app/
 
 # Project Name: Bolt Expo Starter
